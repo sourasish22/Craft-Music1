@@ -1,0 +1,11 @@
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/color-support","time":"2022-11-21T07:35:51Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/detect-libc","time":"2022-11-21T07:35:51Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/mime","time":"2022-11-21T07:35:51Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/mkdirp","time":"2022-11-21T07:35:51Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/node","time":"2022-11-21T07:35:51Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/node-pre-gyp","time":"2022-11-21T07:35:51Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/nopt","time":"2022-11-21T07:35:51Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/rimraf","time":"2022-11-21T07:35:51Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/semver","time":"2022-11-21T07:35:51Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/make-dir/node_modules/.bin/semver","time":"2022-11-21T07:36:14Z"}
+{"error":"lstat /home/runner/OddMusic/node_modules/node/node_modules/.staging/node-linux-x64-9cb728d8/include: no such file or directory","level":"error","msg":"unable to stat node_modules/node/node_modules/.staging/node-linux-x64-9cb728d8/include","time":"2022-11-21T07:36:27Z"}
